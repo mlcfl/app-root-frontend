@@ -1,0 +1,8 @@
+{
+	"extends": "../../../common/common-all/tsconfigs/tsconfig.base.fe",
+	"include": ["src/**/*"],
+	"compilerOptions": {
+		"baseUrl": ".",
+		"types": ["vite/client"]
+	}
+}

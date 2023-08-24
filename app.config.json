@@ -1,0 +1,9 @@
+{
+	"csr": {
+		"index": {
+			"template": "src/index.html"
+		}
+	},
+	"ssr": {},
+	"ssg": {}
+}
