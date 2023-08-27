@@ -1,7 +1,7 @@
 {
 	"csr": {
 		"index": {
-			"template": "src/index.html"
+			"entryClient": "index.html"
 		}
 	},
 	"ssr": {},
